@@ -102,3 +102,37 @@ a {
     font-weight: 900;
     color: #1F2937;
 }
+
+.section3 {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 30px;
+}
+
+.section3a {
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.section3b {
+    display: flex;
+    justify-content: right;
+    margin-right: 20%;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    max-width: 900px;
+    margin: 0;
+}
+
+.reference {
+    text-align: right;
+    font-weight: 900;
+    font-size: 26px;
+}
